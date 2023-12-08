@@ -34,8 +34,7 @@ plt.savefig("output/rgb_dog_reconstruction_example.pdf")
 plt.show()
 ```
 
-![My Image](output/rgb_dog_reconstruction_example.pdf)
-
+[dog](output/rgb_dog_reconstruction_example.pdf)
 
 
 
