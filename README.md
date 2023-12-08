@@ -33,7 +33,7 @@ plt.savefig("output/rgb_dog_reconstruction_example.pdf")
 plt.show()
 ```
 
-[dog](output/rgb_dog_reconstruction_example.pdf)
+[rgb_dog_reconstruction_example.pdf](output/rgb_dog_reconstruction_example.pdf)
 
 
 
