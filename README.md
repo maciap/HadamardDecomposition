@@ -35,7 +35,7 @@ plt.show()
 
 [rgb_dog_reconstruction_example.pdf](output/rgb_dog_reconstruction_example.pdf)
 
-
+<br><br>
 
 The code is tested in Python 3.8.18 and Ubuntu 20.04.2 LTS. 
 
