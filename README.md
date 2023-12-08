@@ -5,9 +5,9 @@ Alternating gradient descent for:
  - Hadamard decomposition
  - Mixed Hadamard decomposition 
  
+ <br>
  
-Example usage
-
+ Example usage:
 ```python
 from data_utils import makerealdata_full_rank_gaussian
 from alternating_gradient_descent import scaled_alternating_gradient_descent_hadDec
@@ -16,7 +16,7 @@ D_estimate,  [D_1_estimate, D_2_estimate], [A_1, B_1, A_2, B_2], [all_diffs1, al
 
 print(f"Approximation error: {all_diffs2[1]}")
 ```
-Example usage with real data 
+Example usage with real (image) data:  
 ```python
 import cv2 
 dataset_name = "rgb_dog"
