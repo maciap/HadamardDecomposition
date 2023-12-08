@@ -2,7 +2,7 @@
 
 
 Alternating gradient descent for: 
- - Hadamard decomposition () 
+ - Hadamard decomposition
  - Mixed Hadamard decomposition 
  
  
@@ -17,6 +17,8 @@ D_estimate,  [D_1_estimate, D_2_estimate], [A_1, B_1, A_2, B_2], [all_diffs1, al
 
 
 The code is tested in Python 3.8.18. 
+
+
 Requirements: 
   - numpy 
   - numba 
