@@ -45,5 +45,5 @@ Requirements:
   - numba 
   
  
- 
+ Contact: martino.ciaperoni@aalto.fi
   
