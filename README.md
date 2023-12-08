@@ -1,4 +1,4 @@
-# HadamardDecomposition
+# Hadamard Decomposition
 
 
 Alternating gradient descent for: 
