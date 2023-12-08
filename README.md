@@ -26,7 +26,6 @@ D_estimate,  [D_1_estimate, D_2_estimate], [A_1, B_1, A_2, B_2], [all_diffs1, al
 
 plt.figure(figsize=(12, 6)) 
 plt.imshow(D_estimate, cmap='gray'), 
-plt.title(f'# vectors = {comps[i]*2}', fontsize=19) 
 plt.xticks([])  # Remove x-axis ticks
 plt.yticks([])  # Remove y-axis ticks
 plt.tight_layout() 
